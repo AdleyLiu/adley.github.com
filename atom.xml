@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://adleyliu.github.io/atom.xml" rel="self"/>
   <link href="http://adleyliu.github.io/"/>
-  <updated>2015-08-25T08:23:06+08:00</updated>
+  <updated>2015-11-01T22:22:37+08:00</updated>
   <id>http://adleyliu.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tow]]></title>
+    <link href="http://adleyliu.github.io/blog/2015/11/01/tow/"/>
+    <updated>2015-11-01T15:44:26+08:00</updated>
+    <id>http://adleyliu.github.io/blog/2015/11/01/tow</id>
+    <content type="html"><![CDATA[<p>你好，世界！</p>
+
+<hr />
+
+<p>&nbsp;&nbsp;&nbsp;我爱你，世界！</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My First Octopress Blog]]></title>
