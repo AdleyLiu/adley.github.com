@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://adleyliu.github.io/atom.xml" rel="self"/>
-  <link href="http://adleyliu.github.io/"/>
-  <updated>2015-11-01T22:33:33+08:00</updated>
-  <id>http://adleyliu.github.io/</id>
+  <title><![CDATA[四季如春]]></title>
+  <link href="http://adleyliu.github.com/atom.xml" rel="self"/>
+  <link href="http://adleyliu.github.com/"/>
+  <updated>2015-11-02T12:26:26+08:00</updated>
+  <id>http://adleyliu.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Walter Liu]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Tow]]></title>
-    <link href="http://adleyliu.github.io/blog/2015/11/01/tow/"/>
+    <link href="http://adleyliu.github.com/blog/2015/11/01/tow/"/>
     <updated>2015-11-01T15:44:26+08:00</updated>
-    <id>http://adleyliu.github.io/blog/2015/11/01/tow</id>
+    <id>http://adleyliu.github.com/blog/2015/11/01/tow</id>
     <content type="html"><![CDATA[<p>你好，世界！</p>
 
 <hr />
@@ -28,9 +28,9 @@
   
   <entry>
     <title type="html"><![CDATA[My First Octopress Blog]]></title>
-    <link href="http://adleyliu.github.io/blog/2015/08/25/my-first-octopress-blog/"/>
+    <link href="http://adleyliu.github.com/blog/2015/08/25/my-first-octopress-blog/"/>
     <updated>2015-08-25T03:27:12+08:00</updated>
-    <id>http://adleyliu.github.io/blog/2015/08/25/my-first-octopress-blog</id>
+    <id>http://adleyliu.github.com/blog/2015/08/25/my-first-octopress-blog</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
