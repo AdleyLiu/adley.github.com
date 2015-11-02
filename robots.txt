@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://adleyliu.github.com/sitemap.xml 
+Sitemap: http://adleyliu.github.io/sitemap.xml 
